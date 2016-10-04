@@ -148,7 +148,7 @@ lrwxrwxrwx 1 root root 24 Sep 27 13:47 mex-2016b -> ../MATLAB/R2016b/bin/mex
   Priority: extra
   Section: main
   Architecture: amd64
-  Maintainer: linux@unc.edu
+  Maintainer: foo@gmail.com
   Description: Matlab from The Mathworks version 2016b.
 ```
 
